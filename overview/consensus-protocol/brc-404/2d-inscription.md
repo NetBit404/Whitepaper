@@ -28,7 +28,7 @@ The attributes reference table is provided below. Please review it thoroughly.
 
 ## Multiple Image Resources
 
-We will use Bitcoin Frog Collection as an example to provide an in-depth explanation of the attributes associated with multiple Image Resource Preview Templates.
+If you have multiple 2D NFTs that you want to showcase in the same model, you can choose this approach. We will use Bitcoin Frog Collection as an example to provide an in-depth explanation of the attributes associated with multiple Image Resource Preview Templates.
 
 <figure><img src="../../../.gitbook/assets/0.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -61,16 +61,16 @@ The attributes reference table is provided below. Please review it thoroughly.
 
 {% embed url="https://youtu.be/Vwz39ID5N2I" %}
 
-## Sequence Frame Animation
+## Keyframe Animation Resource
 
-We will use Sequence Frame Animation as an example.
+If you have a 2D dynamic NFT, you can choose to showcase it in sequence frames on our NetBit platform. We'll use a jumping cat as an example.
 
 <figure><img src="../../../.gitbook/assets/NETBIT.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```html
 < sprite
     name = "jumping cat"
-    infos = "It is an cute of jumping cat"
+    infos = "It is a jumping cat"
     src = "/content/4acc4304ab4b62855ad8540c4effd6f70410ce3gg50e7886109ad985dc2ba2642"
 	format="PNG"
     model_type = "wall"
