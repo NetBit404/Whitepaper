@@ -7,7 +7,7 @@
 * **X Binding:** Users who bind their X account will permanently receive a 25% task bonus.&#x20;
 * **Follow NetBit:** Users follow NetBit's official account on X and will permanently receive a 25% task bonus.
 * **Post on X:** Users who post tweets with _#NETBIT_ and mention the official account _@NETBIT_ will receive a 50% task bonus.&#x20;
-* **Join Discord:** Users who join the official communication group of NetBit on Discord will receive a 10% bonus on tasks.
+* **Join Discord:** Users who join the official communication group of NetBit on Discord will permanently receive a 10% bonus on tasks.
 * **Participate in NetBit Ecosystem:** Users who participate in NetBit Ecosystem will obtain the task bonus.&#x20;
 
 _Example:_&#x20;
