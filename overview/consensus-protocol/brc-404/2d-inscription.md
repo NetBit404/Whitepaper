@@ -28,7 +28,7 @@ The attributes reference table is provided below. Please review it thoroughly.
 
 ## Multiple Image Resources
 
-If you have multiple 2D NFTs that you want to showcase in the same model, you can choose this approach. We will use Bitcoin Frog Collection as an example to provide an in-depth explanation of the attributes associated with multiple Image Resource Preview Templates.
+If you have multiple 2D NFTs that you want to showcase in the same model, you can choose this approach. We will use the Bitcoin Frogs Collection as an example to provide an in-depth explanation of the attributes associated with multiple Image Resource Preview Templates.
 
 <figure><img src="../../../.gitbook/assets/0.jpg" alt=""><figcaption></figcaption></figure>
 
