@@ -85,7 +85,7 @@ If you have a 2D dynamic NFT, you can choose to showcase it in sequence frames o
 < sprite/>
 ```
 
-## Sequence Frame Animation Attributes
+## Keyframe Animation Attributes
 
 The attributes reference table is provided below. Please review it thoroughly.
 
