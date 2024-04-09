@@ -16,12 +16,12 @@
 * [How to Get](airdrop/how-to-get.md)
 * [Task](airdrop/task.md)
 
-## 🗺️ COLUMBUS MATEVERSE
+## 🗺️ COLUMBUS
 
-* [Columbus Land](columbus-mateverse/columbus-land.md)
-* [Columbus Key](columbus-mateverse/columbus-key.md)
-* [Columbus Rune](columbus-mateverse/columbus-rune.md)
-* [Columbus Items](columbus-mateverse/columbus-items.md)
+* [Columbus Land](columbus/columbus-land.md)
+* [Columbus Key](columbus/columbus-key.md)
+* [Columbus Rune](columbus/columbus-rune.md)
+* [Columbus Items](columbus/columbus-items.md)
 
 ## 🚀 LAUNCH PLATFORM
 
