@@ -6,4 +6,4 @@ Incorporating the POET mechanism into Bitcoin's Layer 2 allows NetBit to leverag
 * Enhanced Efficiency: The introduction of POET optimizes block production efficiency by dispersing transaction processing over time. By randomly determining when participants propose blocks, POET reduces network congestion and enhances overall transaction throughput.&#x20;
 * Flexibility and Adaptability: POET provides flexibility to adapt block production parameters according to network requirements. Adjusting parameters such as waiting time length can further optimize block production efficiency and security, ensuring the network can adapt to evolving needs and scenarios.
 
-<figure><img src="../../.gitbook/assets/POET-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/POET-01 (1).png" alt=""><figcaption></figcaption></figure>
