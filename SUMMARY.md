@@ -30,7 +30,7 @@
 
 ## ⚖️ NETBIT SWAP
 
-* [SWAP](netbit-swap/swap.md)
+* [Swap](netbit-swap/swap.md)
 
 ## 🪙 TOKENOMICS
 
