@@ -26,7 +26,7 @@ At the core of the NetBit blockchain is its native cryptocurrency, the NBTC toke
 
 During the initial stages of NetBit's development, NetBit Chain will launch NetBit Launchpad and Launchpool, aiming to provide a swift and effective way for new projects to raise funds. This offers users with the opportunity to participate in new projects in the NetBit ecosystem, with users be rewarded for providing funding support or liquidity.&#x20;
 
-NetBit will also fully integrate the Ordinals and Runes protocols, combining runes with ordinal collections to expand the functionality of runes and enhance the interaction of collections. This integration will open up new possibilities for runes to empower collections and contribute to building a diversified Bitcoin ecosystem. Additionally, NetBit will launch an efficient and automated SWAP platform to provide users with transparent and decentralized BTC trading services.
+NetBit will also fully integrate the Ordinals and Runes protocols, combining runes with ordinals collections to expand the functionality of runes and enhance the interaction of collections. This integration will open up new possibilities for runes to empower collections and contribute to building a diversified Bitcoin ecosystem. Additionally, NetBit will launch an efficient and automated SWAP platform to provide users with transparent and decentralized BTC trading services.
 
 NetBit Chain continues its commitment to fair deployment and community-driven native innovation on Layer 2, striving to provide unique solutions designed for the Bitcoin network and its users.
 
