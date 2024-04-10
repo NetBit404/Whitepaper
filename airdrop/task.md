@@ -4,7 +4,7 @@
 
 * **Invite friends:** Users invite friends to become new users of NetBit. when they successfully invite 3 level-1 friends for the first time, they will permanently receive a 50% task bonus.&#x20;
 * **Social interaction:** Both users and friends participating in mining together can receive a _**5%-100%**_ task bonus.&#x20;
-* **X Binding:** Users who bind their X account will permanently receive a 25% task bonus.&#x20;
+* **Bind X:** Users who bind their X account will permanently receive a 25% task bonus.&#x20;
 * **Follow NetBit:** Users follow NetBit's official account on X and will permanently receive a 25% task bonus.
 * **Post on X:** Users who post tweets with _#NETBIT_ and mention the official account _@NETBIT_ will receive a 50% task bonus.&#x20;
 * **Join Discord:** Users who join the official communication group of NetBit on Discord will permanently receive a 10% bonus on tasks.
