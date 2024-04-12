@@ -10,7 +10,7 @@
 * **Join Discord:** Users who join the official communication group of NetBit on Discord will permanently receive a 10% bonus on tasks.
 * **Participate in NetBit Ecosystem:** Users who participate in NetBit Ecosystem will obtain the task bonus.&#x20;
 
-_Example:_&#x20;
+_For example:_&#x20;
 
 User A successfully invited 3 level-1 friends for the first time that day, mined with 3 level-1 friends, bound Twitter. On that day, total task airdrop of user A =0.1 \* ( 50% + 3 \* 25% + 25% ) = 0.15.
 
@@ -21,7 +21,7 @@ User A successfully invited 3 level-1 friends for the first time that day, mined
 * [x] Users participate in mining with level-2 friends every day, only the users themselves will get a 5% bonus.&#x20;
 * [x] The maximum bonus of Social Interaction is 100%.
 
-_Example:_&#x20;
+_For example:_&#x20;
 
 User A successfully invited User B to register, User B successfully invited User C to register, User C didn’t invite any friends, all of them participated in mining on the same day. On that day, User A can obtain a 30% (25%+5%) task airdrop bonus, User B can obtain a 50% (25%+25%) task airdrop bonus, User C can obtain a 25% task airdrop bonus.
 
