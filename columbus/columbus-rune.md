@@ -10,11 +10,11 @@ Runes according to runestones come into existence by being etched. Etching creat
 
 Columbus Rune is the first rune issued on the NetBit Launchpad. It serves as the primary medium of exchange within the platform, facilitating various transactions, rewards, and incentives. Columbus runes and Columbus items can be exchanged for each other. Users can obtain runes through subscription and trade them on the market at any time.&#x20;
 
-By staking these keys to the NetBit Launchpool, users will receive rune airdrops. Users who contribute to the community or win in events hosted by NetBit will be rewarded with runes by NetBit Ecosystem Fund.
+By staking these keys to the NetBit Launchpool, users will receive runes airdrops. Users who contribute to the community or win in events hosted by NetBit will be rewarded with runes by NetBit Ecosystem Fund.
 
 ## Why Buy Columbus Rune？
 
-Columbus Rune can be exchanged for various Columbus items that add the functionality and value of Columbus land. By using these items, users can further strengthen and optimize their land, thereby earning more keys as rewards.
+Columbus Rune can be exchanged for various Columbus items that add the functionality and value of Columbus Land. By using these items, users can further strengthen and optimize their land, thereby earning more keys as rewards.
 
 ## Allocation&#x20;
 
