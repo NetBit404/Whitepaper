@@ -1,5 +1,5 @@
 ---
-description: In Columbus Metaverse, find and co-creat your place.
+description: In Columbus Metaverse, find and co-creat your ideal place.
 ---
 
 # Columbus Land
